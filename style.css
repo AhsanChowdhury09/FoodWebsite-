@@ -170,6 +170,7 @@ body {
 .fourth-section-heading {
     font-size: 30px;
     line-height: 55%;
+    text-align: center;
 }
 
 .social-media-para {
@@ -194,4 +195,10 @@ footer h1 {
 footer p {
     text-align: center;
     color: white;
+}
+
+.social-media-div img {
+    height: 80px;
+    width: 80px;
+    margin-left: 23px;
 }
